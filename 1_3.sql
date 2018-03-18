@@ -1,0 +1,1 @@
+select  * from mydb.posts order by created_at desc LIMIT  5;
